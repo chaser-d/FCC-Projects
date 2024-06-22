@@ -1,0 +1,35 @@
+Tribute Page HTML
+
+<!DOCTYPE html>
+<html lang="en"></html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Loki</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+<main id="main">
+  <body>
+    <header class="header">
+      <h1 id="title">A Tribute to</h1>
+      <h1 id="name"><i>Loki</i></h1>
+      <h3 id="dates">2011-2023</h3>
+    </header>
+    <div id="img-div">
+      <img src="C:\Users\dchas\OneDrive\Pictures\Website Photos\Loki Tribute.xcf" alt="Loki, a Blue-Point Siamese cat, sleeps on a pillow." title="Loki at rest." id="image">
+      <div id="img-caption">
+        <h6 id="caption">Loki, at rest. Photo by D. Chase-Herber</h6>
+      </div>
+    </div>
+    <div id="tribute-info">
+      <p id="intro">Loki was an Apple-Headed, Blue Point Siamese born in Eastern Pennsylvania around 1 April 2010. He was named 'Loki' in honor of the trickster god of the Norse.</p>
+      <p id="traits">Although Loki's fun-loving nature was apparent to his family almost immediately, he also had other strong points. He was both an excellent birder and mouser, and despite being an indoor cat, he would end the lives of several mice and songbirds over his hunting career.</p>
+      <p id="early-years">While Loki was still just a small kitten, he experienced a severe illness. He had such sever gastrointestinal issues that his human family feared he would die. While his illness was successfully diagnosed as a bacterial overgrowth of the small intestine and he was given medicine to heal him, it took a great deal of time for Loki to recover from this illness.</p>
+      <p id="death">Loki had an average lifespan for an indoor cat, but toward the end of his life those digestive issues returned. Although he did not have another bacterial infection, the damage done during his kittenhood appeared to have a lasting effect. He passed away on 20 May 2023.</p>
+    </div>
+  </body>
+  <footer>
+    <div id="learn-more" id="learn-about-siamese"><h5>To learn more about different types of Siamese cats, click <a id="tribute-link" href="https://www.hepper.com/types-of-siamese-cats/" target="_blank">here.</h5>
+    </div>
+  </footer>
+</main>
