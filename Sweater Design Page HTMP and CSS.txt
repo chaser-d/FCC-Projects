@@ -1,0 +1,235 @@
+/* HTML */
+
+<!DOCUMENT html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweater Design</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+    <nav id="navbar">
+      <header id="Sweater_Design"><h3><i>Sweater Design</i></h3></header>
+      <div class="navbar-list">
+      <ul>
+        <li><a href="#Introduction" class="nav-link">Introduction</a></li>
+        <li><a href="#My_Approach:" class="nav-link">My Approach:</a></li>
+        <li><a href="#Design_Questions" class="nav-link">Design Questions</a></li>
+        <li><a href="#First_Answers" class="nav-link">First Answers</a></li>
+        <li><a href="#Next_Steps" class="nav-link">Next Steps</a></li>
+      </ul>
+    </div>
+  </nav>
+  <main id="main-doc">
+    <section class="main-section" id="Introduction">
+      <header><h3>Introduction</h3></header>
+      <body>
+        <h4><i>No Two Processes are Identical... Every Artist has a Different Approach</i></h4>
+        <p>For those who are just beginning their journeys as artists, it may feel like you are spending an inordinate amount of time learning the history and processes of an enormous number of workers in you discipline, whether you are a painter, a writer, or a builder. There is a great deal of truth that we "learn by doing", but the difference between a talented amateur and a full-blown professional is often in the amount of care and attention paid to the systematic study of the craft.</p>
+          <figure class="float-right">
+            <img src="https://drive.google.com/file/d/1gLvdwCKaRayjdfSFP7ZxsvhVvuFE2Nxd/view?usp=drive_link" alt="An artist sits at an easel." title="The artist prepares to paint." class="square">
+
+            <figcaption><i>The artist prepares to paint.</i></figcaption>
+            <figcaption>Created by <a id="beasterchen" class="links" href="https://pixabay.com/users/beasternchen-32364022/">beasterchen</a> with AI and uploaded on Pixabay.com.</figcaption>
+            </figure>
+        <p>Although there will always be wunderkind in any field of expertise, the majority of Masters are made through study and application. Whether this takes place in a formal educational setting or as an independt learner matters not—if the work gets done, improvement is likely to follow.</p>
+        <p>Studying the processes of other artists should not lead to slavish mimicry; although one may wish to challenge oneself by completing a piece in the style of another can help one discover which parts of another artist's practice work for your own process, and which ones do not.</p>
+        <h4><i>My Background</i></h4>
+        <p>I have extensive experience in light manufacturing and assembly work, and for those who have not had the same opportunities, this is how your local factory works—rather than dozens or hundreds of persons working in identical motions, each station is set up to accomidate the individual as much as possible while achieving an identical goal. The operation of machinery is likewise individualized, much like the way that two people drive the same automobile but have different outcomes, factory machines are also handled differently by various workers.</p>
+        <p>In this way, it is important to study the processes of as many makers as possible...and it is in the interest of this study that I am sharing my own process.</p>
+      </body>
+    </section>
+    <section class="main-section" id="My_Approach:">
+      <header><h1>My Approach:</h1></header>
+      <h2>Agile, Function, and Form</h2>
+      <body>
+        <h4><i>What is Agile?</i></h4>
+        <figure class="float-right">
+          <img src="https://drive.google.com/file/d/1JvmRp7T5Ffo5IGYBiaUbXnvF0lkrpjHL/view?usp=drive_link" alt="A dog performs the agility slalom." title="Dog slalom" class="rectangle">
+          <br />
+          <figcaption><i>A dog performs the agility slalom.</i></figcaption>
+          </figure>
+          <p>Agile is a project management style defined by its iterative nature. It was originally developed for software developent and IT projects, but can be used in any disicipline.</p>
+          <p>In my case, this means working back and forth on various elements of a design, sometimes throwing out what I have already achieved, and eventually coming to a point at which I am satisfied.</p>
+        <h4><i>Function First</i></h4>
+          <p>I tend to gravitate toward the problem-solving aspect of design first. In English, we usually say, "Form, then function," because artists are supposed to be concerned primarily with beauty, and only after that aspect has been achieved, with the use for their makings. Occasionally we say "Form OVER function," meaning that the maker was carried away with the beauty of the design and created something which does not perform its alloted task well.</p>
+          <p><em>My</em> brain, however, does not work this way; I am obsessed with economy of function and use of materials, and this finds its way into all of my arts.</p>
+          <p>How this breaks down is that I have a basic list of questions to ask so I can solve the puzzle of creation. In the words of <a id="Max-Bauman" class="links" href="https://www.linkedin.com/in/maxwell-bauman-921ab933/">Maxwell Bauman</a>, "Problems may not have answers, but puzzles always do."</p>
+        </body>
+      </section>
+      <section class="main-section" id="Design_Questions">
+        <header><h3>Design Questions</h3></header>
+        <body>
+          <h4><i>An Iterative List</i></h4>
+          <p>In this spirit, what questions do I need to ask to solve this puzzle:</p>
+          <ol id="design-questions" class="outline-style">
+            <li>What is the garment's function?</li>
+            <ol class="nested">
+              <li>Which features are most important?</li>
+              <li>What environment is expected?</li>
+              </ol>
+              <li>What silhouette will be the most useful and flattering?</li>
+              <ol class="nested">
+                <li>How does the silhouette accomidate the function?</li>
+                <li>Is there any way for the silhouette to accent the function?</li>
+                <li>How can the silhouette flatter the target figure type?</li>
+              </ol>
+              <li>What type of fabric will be used?</li>
+              <ol class="nested">
+                <li>Store-bought:</li>
+                <ol class="dbl-nested">
+                  <li>Type of material(s) to be used</li>
+                  <li>Amount of goods needed</li>
+                  <li>Cost of goods</li>
+                </ol>
+                <li>Made from yarn</li>
+                <ol class="dbl-nested">
+                  <li>Yarn properties desired:</li>
+                  <ol class="triple-nested">
+                    <li>Warmth</li>
+                    <li>Thickness (weight) of yarn</li>
+                    <li>Drapability</li>
+                    <li>Surface properties (texture, colorwork, etc)</li>
+                    <li>Care requirements</li>
+                    </ol>
+                    <li>Amount of materials needed</li>
+                    <li>Availability of colors desired</li>
+                    <li>Cost of materials</<li>
+                      <li>Availability of tools and equipment, and / or cost to provide</li>
+                </ol>
+              </ol>
+            </ol>
+          <p>These questions must be answered iteratively, as there are so many interconnected issues at play.</p>
+      </body>
+    </section>
+    <section class="main-section" id="First_Answers">
+      <header><h3>First Answers</header>
+      <body>
+        <h4><i>The Office Sweater</i></h4>
+        <p>The Office Sweater is a middle-weight garment usually used in (you guessed it) office settings. In American offices, at least, termperature control is more of a dream than a reality, and one needs to have a garment capable of creating an appropriate microclimate.</p>
+        <h4><i>Functionality</i></h4>
+        <p>As mentioned, this is generally a light- to medium-weight article of clothing. It needs to be donned and doffed with ease, and considering personal appearance requirements at this time this requirement necessitates a cardigan-style garment, as a pullover would muss hairstyles and / or smear cosmetics. The verticle opening can be in the front or back, but a front opening is more traditional.</p>
+        <p>Storage in the sweater would undoubtedly be appreciated; as an aside, I actually went to fashion design school because of the paucity of pockets in women's wear. Although the number of stow zones is gaining parity to menswear at this time, professional and evening wear are still lagging behind what is available for men.</p>
+        <h4><i>Silhouette</i></h4>
+        <p>Moving on to the silhouette desired, I now possess an apple-shaped body. In my research on <a id="forty+style" href="https://40plusstyle.com/style-women-over-40-about/">Forty+ Style</a>, I found great information on how to style various female body types for professional and other settings.</p>
+        <figure>
+          <img src="https://i.pinimg.com/564x/41/b8/3e/41b83eed16343b2fdadd72b16141e510.jpg" alt="A white turtleneck, royal blue casual sweater, and black cape feature assymetric hems, while a coral duster shows off long, vertical lines." title="Forty+ Style Silhouettes" class="long-rectangle">
+          <br />
+          <figcaption><i>Some of <a href="https://40plusstyle.com/how-to-dress-the-apple-body-shape/">Forty+ Style's</a> Sylvia's suggestted silhouettes.</i></figcaption>
+          </figure> 
+        <p>For my particular body type, the main suggestions I have are: focus on the decollete, using asymmetry helps distract from a fuller midrift, and hems should fall around the high hip or hip bone area. Vertical elements are to be embraced, and if the silhouette is going to encorporate fitting, that should occur just below the bust, where the body is slimmest. In addition, bulky and clingy fabrics should be avoided in equal amounts, which informs my textile design choices.</p>
+        <p>The sub-questions related to silhouette will be answered in more depth as I place design elements. One big thing to keep in mind is pocket placement; I absolutely NEED pockets, but they should not fall at the belly level. This is a little unfortunate, because this is where the hand naturally falls, but it is not a deal-breaker. In Victorian times, a volumous pocket (or access to one) was a necessity in both day and evening wear; I have seen an example in which the pocket was incorporated into the top of the bustle (back of the skirt that mimics a voluptuous derrier). Convinent for access? Not at all. Necessary storage? Absoilutely!</p>
+        <p>Bouncing back to textile design, I have established that my Office Sweater should be of a medium to heavy weight.</p>
+        <figure class="float-left">
+          <img src="https://drive.google.com/file/d/1xL1WarQ6IAgEFbIYoPuakgIfjQbdPTUi/view?usp=drive_link" alt="A model shows Louis Vuitton's colorful suit from the Spring 2023 Menswear collection."
+          title="Louis Vuitton, Spring 2023 Menswear Collection" class="rectangle">
+          <br />
+          <figcaption><i>Louis Vuitton, Spring 2023 Menswear Collection.</i></figcaption>
+          <Figcaption><a href="https://www.kristysparow.com/">Kristy Sparrow</a> / <a href="https://www.gettyimages.com/">Getty Images</a></figcaption>
+          </figure>
+        <p>I am going to combine gradient color and cable elements in this garment. Cables are knitted stitches which are twisted around one another as they are made. This action compresses the fabric on the horizontal plane and usually creates vertical elements in the resultant fabric. The horizontal compression creates a firmer, warmer fabric than that achieved by plain knit.</p>
+        <p>These aspects will cause me to either restrict the cabled elements in my design, and / or create my fabric on larger needles compared to the yarn diameter so the garment will not wear like armor.</p>
+      </body>
+    </section>
+    <section class="main-section" id="Next_Steps">
+      <header><h3>Next Steps</h3></header>
+      <body>
+        <h4><i>Color</i></h4>
+        <p>Traditional cable sweaters, also known as Aran Sweaters for the chain of islands which are part of Ireland and from which heavily cabled, 100% wool sweaters were devised as an export product in 1902, are made entirely in naturally occurring wool colors. The reason for this tradition is quite simple: a naturally occurring color is cheaper to produce than one which is dyed, and one must keep input costs low to maximize profit in commercially produced goods (ESPECIALLY when those goods are produced at the cottage level).</p>
+        <p>While cost is an issue when I design and make, I am not as closely bound by the financial constraints of the Aran Islanders. By using the Colorpick tool in <a href="https://www.gimp.org/">GIMP</a>, I came up with a pallete of the following colors:
+        </p>
+        <figure>
+          <img>
+          <br />
+          <figcaption>Create the computer-generated color swatches here</figcaption>
+        </figure>
+      </body>
+    </section>
+  </main>
+
+/* CSS */
+
+.square {
+  width: 150px;
+  height: 150px;
+}
+p {
+  text-indent: 2em;
+}
+.rectangle {
+  width: 150px;
+  height: 225px;
+}
+
+.long-rectangle {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  display: flex;
+  max-width: 960px;
+  font-family: Calibri, sans-serif;
+  padding: 10px;
+}
+
+.float-right {
+  float: right;
+  width: 150px;
+}
+
+.float-left {
+  float: left;
+  width: 150px;
+}
+
+.navbar-list {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #04AA6D;
+    li a {
+      color: white;
+      text-decoration: none;
+      padding-left: 10px;
+    }
+    li a:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+#navbar {
+  width: 135px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+}
+
+.main-section {
+  padding-left: 10px;
+}
+
+nav {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+#main-doc {
+  padding-top: 250px;
+}
+
+@media (min-width < 300px) {
+  .#navbar {
+    position: absolute;
+    top: 0px;
+  }
+}
+
+@media (min-width > 600px) {
+  .main-section {
+    padding-left: 145px;
+  }
+}
