@@ -16,7 +16,7 @@ Tribute Page HTML
       <h3 id="dates">2011-2023</h3>
     </header>
     <div id="img-div">
-      <img src="C:\Users\dchas\OneDrive\Pictures\Website Photos\Loki Tribute.xcf" alt="Loki, a Blue-Point Siamese cat, sleeps on a pillow." title="Loki at rest." id="image">
+      <img src="https://drive.google.com/file/d/1pN_JV0j0Jgu3EEghgKvUvo3AYXvGRWrx/view?usp=drive_link" alt="Loki, a Blue-Point Siamese cat, sleeps on a pillow." title="Loki at rest." id="image">
       <div id="img-caption">
         <h6 id="caption">Loki, at rest. Photo by D. Chase-Herber</h6>
       </div>
